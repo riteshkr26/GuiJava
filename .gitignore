@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow folders (recursive)
+!*/
+
+# Allow only java and txt files
+!*.java
+!*.txt
+
+# Allow this gitignore itself
+!.gitignore
